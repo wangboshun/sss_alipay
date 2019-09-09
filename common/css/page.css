@@ -1,0 +1,130 @@
+.uni-col-1 {
+	width: 10%;
+}
+
+.uni-col-2 {
+	width: 20%;
+}
+
+.uni-col-3 {
+	width: 30%;
+}
+
+.uni-col-4 {
+	width: 40%;
+}
+
+.uni-col-5 {
+	width: 50%;
+}
+
+.uni-col-6 {
+	width: 60%;
+}
+
+.uni-col-7 {
+	width: 70%;
+}
+
+.uni-col-8 {
+	width: 80%;
+}
+
+.uni-col-9 {
+	width: 90%;
+}
+
+.uni-col-10 {
+	width: 100%;
+}
+
+.uni-height-50 {
+	height: 50upx;
+}
+
+.uni-height-100 {
+	height: 100upx;
+}
+
+.uni-height-150 {
+	height: 150upx;
+}
+
+.uni-height-200 {
+	height: 200upx;
+}
+
+.uni-height-250 {
+	height: 250upx;
+}
+
+.uni-height-300 {
+	height: 300upx;
+}
+
+.uni-height-350 {
+	height: 350upx;
+}
+
+.uni-height-400 {
+	height: 400upx;
+}
+
+.uni-height-450 {
+	height: 450upx;
+}
+
+.uni-height-500 {
+	height: 500upx;
+}
+
+.uni-bottom-5 {
+	margin-bottom: 5upx;
+}
+
+.uni-bottom-10 {
+	margin-bottom: 10upx;
+}
+
+.uni-bottom-20 {
+	margin-bottom: 20upx;
+}
+
+.uni-bottom-50 {
+	margin-bottom: 50upx;
+}
+
+.uni-bottom-100 {
+	margin-bottom: 100upx;
+}
+
+.uni-top-5 {
+	margin-top: 5upx;
+}
+
+.uni-top-10 {
+	margin-top: 10upx;
+}
+
+.uni-top-20 {
+	margin-top: 20upx;
+}
+
+.uni-top-50 {
+	margin-top: 50upx;
+}
+
+.uni-top-100 {
+	margin-top: 100upx;
+} 
+
+.text {
+	margin: 15upx 10upx;
+	padding: 0 20upx;
+	background-color: #ebebeb;
+	height: 70upx;
+	line-height: 70upx;
+	text-align: center;
+	color: #777;
+	font-size: 26upx;
+}
