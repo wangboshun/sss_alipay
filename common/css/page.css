@@ -1,3 +1,18 @@
+.uni-header {
+	text-align: center;
+	height: 50upx;
+	position: fixed;
+	z-index: 99;
+}
+
+.uni-footer {
+	text-align: center;
+	height: 50upx;
+	position: fixed;
+	bottom: 0;
+	z-index: 99;
+}
+
 .uni-col-1 {
 	width: 10%;
 }
@@ -116,7 +131,106 @@
 
 .uni-top-100 {
 	margin-top: 100upx;
-} 
+}
+
+.uni-left-5 {
+	margin-left: 5upx;
+}
+
+.uni-left-10 {
+	margin-left: 10upx;
+}
+
+.uni-left-20 {
+	margin-left: 20upx;
+}
+
+.uni-left-50 {
+	margin-left: 50upx;
+}
+
+.uni-left-100 {
+	margin-left: 100upx;
+}
+
+.uni-flex-nowrap {
+	flex-wrap: nowrap;
+}
+
+/* 换行 */
+.uni-flex-wrap {
+	flex-wrap: wrap;
+}
+
+/* 对齐方式 中心 */
+.uni-justify-content-center {
+	justify-content: center;
+}
+
+/* 对齐方式 左对齐 */
+.uni-justify-content-left {
+	justify-content: flex-start;
+}
+
+/* 对齐方式 右对齐 */
+.uni-justify-content-right {
+	justify-content: flex-end;
+}
+
+/* 对齐方式 两端对齐 */
+.uni-justify-content-between {
+	justify-content: space-between;
+}
+
+/* 对齐方式 两边间隔对齐 */
+.uni-justify-content-around {
+	justify-content: space-around;
+}
+
+/* 文字方向 */
+
+.uni-text-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.uni-text-left {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.uni-text-right {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.uni-order-0 {
+	order: 0;
+}
+
+.uni-order-1 {
+	order: 1;
+}
+
+.uni-order-2 {
+	order: 2;
+}
+
+.uni-order-3 {
+	order: 3;
+}
+
+.uni-order-4 {
+	order: 4;
+}
+
+.uni-order-5 {
+	order: 5;
+}
+
 
 .text {
 	margin: 15upx 10upx;
